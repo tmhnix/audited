@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
