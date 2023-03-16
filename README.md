@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
