@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
