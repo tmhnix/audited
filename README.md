@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
