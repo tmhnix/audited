@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Update inference.cpp (bug) (#7279)
