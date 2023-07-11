@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+docs: update view-results-in-terminal.md (#66)
