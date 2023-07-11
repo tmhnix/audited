@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Batch inference fixes (#8854)
