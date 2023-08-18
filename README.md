@@ -1,1 +1,1 @@
-update requirements.txt
+fix yolo classify model loading error (#9196)
