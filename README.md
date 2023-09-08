@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
