@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix RTDETR generate anchor grid out of boundary (#7247)
