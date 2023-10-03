@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
