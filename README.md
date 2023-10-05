@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add integrations/gradio Docs page (#7935)
