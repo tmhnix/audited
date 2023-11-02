@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
