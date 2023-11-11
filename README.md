@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Remove unused variables (#8511)
