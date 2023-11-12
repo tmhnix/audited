@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Updated SQL Query Plot Code (#8120)
