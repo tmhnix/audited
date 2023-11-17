@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
