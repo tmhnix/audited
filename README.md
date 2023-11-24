@@ -1,1 +1,1 @@
-fix val each epoch
+Docs updates and improvements (#8183)
