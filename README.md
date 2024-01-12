@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
