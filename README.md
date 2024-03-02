@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Fixed RTDETR GFLOPs bug (#7309)
