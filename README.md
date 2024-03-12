@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Move Explorer tests to scheduled CI (#8305)
