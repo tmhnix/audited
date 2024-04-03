@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Improve Coral Edge TPU guide (#8160)
