@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
