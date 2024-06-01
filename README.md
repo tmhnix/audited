@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update pyproject.toml and Docs (#7274)
