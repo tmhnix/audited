@@ -1,1 +1,1 @@
-add logs
+fix print val map
