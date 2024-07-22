@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
