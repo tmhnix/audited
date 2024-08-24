@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
