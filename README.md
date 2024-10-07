@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Move Explorer tests to scheduled CI (#8305)
