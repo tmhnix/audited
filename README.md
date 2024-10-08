@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
